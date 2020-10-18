@@ -1,68 +1,36 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## About
+This is a project for Human-Computer Interfaces 4HC3 Fall 2020 at McMaster University.
 
-## Available Scripts
+## Project Details
+The original task
+> Paper supply company Dunder Mifflin has hired you to develop a web app that will allow their
+> employees to keep track of multiple lists of items grouped by category. The app should allow the
+> employee to create custom categories for each list of items, and also to create and manage the list of
+> items under each category. For example, an employee planning an office party may wish to create food,
+> drinks and games categories, and also to create the following items under each category
+> Beyond this requirement to be able to create custom list categories and manage custom lists of items
+> under each category, Dunder Mifflin is unsure exactly what other features are required for their
+> employees. In all cases items being managed will consist primarily of a short piece of text, such as a
+> person’s name or a task, but in some cases other information associated with each item may need to be
+> managed. Dunder Mifflin conducted a survey of their employees to help you understand what other
+> features would be necessary, and the results of the survey are in the survey_results.xlsx Excel file on
+> Avenue. The application does need to work for all Dunder Mifflin employees and help them as they
+> require it to help them.
 
-In the project directory, you can run:
+## Technical Details
+This application was completed using [React](https://reactjs.org/) and [React Material UI](https://material-ui.com/)
 
-### `npm start`
+## System Requirements
+Requirements
+- NodeJS
+- NPM
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Running
+You can run the dev server using npm
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+`npm install`
 
-### `npm test`
+`npm start`
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+## Author
+Nathan Brown
